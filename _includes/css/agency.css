@@ -874,7 +874,7 @@ a.be-a-part {color: #fff!important;}
 
 
 
-
+/* remove rounded corners on small devices */
 @media(min-width:767px) {
 
 .navbar-default .navbar-brand {
