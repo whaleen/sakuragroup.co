@@ -1,0 +1,24 @@
+  <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Copyright &copy; {{ site.title }} 2015</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline">
+                        <li>
+                            2010 SE 7th Ave Portland Oregon 97211
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
