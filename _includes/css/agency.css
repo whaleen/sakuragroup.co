@@ -183,7 +183,6 @@ fieldset[disabled] .btn-xl.active {
     font-family: Helvetica,Arial;
     color: #FFF;
     background-color: #fa6e49;
-    border-radius: 3px;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -872,3 +871,13 @@ body {
 a.be-a-part {color: #fff!important;}
 
 .services-statement {line-height: 1.8em;}
+
+
+
+
+@media(min-width:767px) {
+
+.navbar-default .navbar-brand {
+    border-radius: 3px;
+}
+}
