@@ -1,7 +1,7 @@
 ---
 title: Commercial
 subtitle: Remodeling & New Contruction
-layout: portfolio
+layout: default
 modal-id: 5
 date: 2014-07-14
 img: startup-framework.png

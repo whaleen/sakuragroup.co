@@ -9,7 +9,7 @@ description: "Portland Oregon - Design / Build / Remodel"
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 262d37
-  secondary: fd6a4f
+  secondary: 262d37
   secondary-dark: 333
 
 # Team names, titles and social links
@@ -26,7 +26,7 @@ people:
 
 - name: Joshua Vaage
   pic: 2
-  position: Builder / Site Manager
+  position: Builder / Assistant Project Manager
   social:
     - title: twitter
       url: http://twitter.com/whaleen

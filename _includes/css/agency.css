@@ -886,3 +886,9 @@ a.be-a-part {color: #fff!important;}
 .phone-button {padding-bottom: 24px;}
 
 .houzz-link {color: #75c155;}
+
+
+.navbar-shrink {    
+
+    background-image: url(../img/header-bg.jpg);
+}
