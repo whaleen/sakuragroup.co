@@ -17,8 +17,8 @@
                         <p class="text-muted">{{ member.position }}</p>
                         <p class="large text-muted">{{ member.biography }}</p>
                         <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-envelope"></i></a>
-                            <li><a href="#"><i class="fa fa-phone"></i></a>                                
+                            <li><a href="mailto:{{ member.email }}"><i class="fa fa-envelope"></i></a>
+                            <li><a href="tel:{{ member.telephone }}"><i class="fa fa-phone"></i></a>                                
                             {% for network in member.social %}
                             <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
                             {% endfor %}

@@ -17,3 +17,6 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 <img src="img/portfolio/commercial/3.jpg" class="img-responsive img-centered" alt="{{ post.alt }}">
 <img src="img/portfolio/commercial/4.jpg" class="img-responsive img-centered" alt="{{ post.alt }}">
 <img src="img/portfolio/commercial/5.jpg" class="img-responsive img-centered" alt="{{ post.alt }}">
+<img src="img/portfolio/commercial/6.png" class="img-responsive img-centered" alt="{{ post.alt }}">
+<img src="img/portfolio/commercial/7.png" class="img-responsive img-centered" alt="{{ post.alt }}">
+

@@ -22,3 +22,6 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 <img src="img/portfolio/traditional-exteriors/7.png" class="img-responsive img-centered" alt="{{ post.alt }}">
 <img src="img/portfolio/traditional-exteriors/8.png" class="img-responsive img-centered" alt="{{ post.alt }}">
 <img src="img/portfolio/traditional-exteriors/9.png" class="img-responsive img-centered" alt="{{ post.alt }}">
+<img src="img/portfolio/traditional-exteriors/10.png" class="img-responsive img-centered" alt="{{ post.alt }}">
+<img src="img/portfolio/traditional-exteriors/11.png" class="img-responsive img-centered" alt="{{ post.alt }}">
+<img src="img/portfolio/traditional-exteriors/12.png" class="img-responsive img-centered" alt="{{ post.alt }}">

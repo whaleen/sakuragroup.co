@@ -3,7 +3,7 @@ url: http://sakuragroup.co
 
 # Site settings
 title: The Sakura Group
-email: mail@sakuragroup.co
+email: josh@sakuragroup.co
 description: "Portland Oregon - Design / Build / Remodel"
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -17,16 +17,20 @@ people:
 - name: Taka Nakagawa
   pic: 1
   position: Founder / Project Manager
+  email: taka@sakuragroup.co
+  telephone: +1 (503) 451-5944
   biography:
   social:
     - title: twitter
-      url: #
+      url: http://twitter.com/thesakuragroup
     - title: facebook
-      url: #
+      url: https://www.facebook.com/taka.nakagawa.9
 
 - name: Joshua Vaage
   pic: 2
   position: Builder / Assistant Project Manager
+  email: josh@sakuragroup.co
+  telephone: +1 (503) 863-6014
   social:
     - title: twitter
       url: http://twitter.com/whaleen
@@ -38,7 +42,7 @@ social:
   - title: twitter
     url: http://twitter.com/thesakuragroup
   - title: facebook
-    url:
+    url: http://facebook.com/thesakuragroup
 
 # Postal address (add as many lines as necessary)
 address:
