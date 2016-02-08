@@ -22,9 +22,9 @@ people:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/taka.nakagawa.9
 
-- name: Joshua Vaage
+- name: Doug Johnson
   pic: 2
   position: Builder / Site Manager
   social:
@@ -42,8 +42,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 2010 SE 7th Ave 
-  - line: Portland, OR 90210
+  - line: 1020 #15235 SE 7th Ave 
+  - line: Portland, OR 97214
 
 # Build settings
 markdown: kramdown

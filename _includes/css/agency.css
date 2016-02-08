@@ -272,7 +272,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    background-image: url(../img/alameda.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -643,6 +643,8 @@ section h3.section-subheading {
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
+    height: 250px;
+    width: 250px;
 }
 
 .team-member h4 {
@@ -661,13 +663,15 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/map-image.png);
-    background-position: center;
+    background-image: url(../img/living-room.jpg);
+    background-position: center bottom;
+    background-size: 150%;
     background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
     color: #fff;
+    text-shadow: 0 0 5px RGBA(0,0,0.75);
 }
 
 section#contact .form-group {
