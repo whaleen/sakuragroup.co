@@ -1,5 +1,5 @@
-# url: http://sakuragroup.co
-url: http://127.0.0.1:4000
+url: http://sakuragroup.co
+# url: http://127.0.0.1:4000
 
 #baseurl: /agency-jekyll-theme/
 
@@ -26,7 +26,7 @@ people:
     - title: twitter
       url: http://twitter.com/thesakuragroup
     - title: facebook
-      url: https://www.facebook.com/taka.nakagawa.9
+      url: https://www.facebook.com/thesakuragroup
 - name: Doug
   pic: 2
   position: Assistant Project Manager
