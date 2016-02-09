@@ -1,4 +1,6 @@
-url: http://sakuragroup.co
+# url: http://sakuragroup.co
+url: http://127.0.0.1:4000
+
 #baseurl: /agency-jekyll-theme/
 
 # Site settings
@@ -25,6 +27,18 @@ people:
       url: http://twitter.com/thesakuragroup
     - title: facebook
       url: https://www.facebook.com/taka.nakagawa.9
+- name: Doug
+  pic: 2
+  position: Assistant Project Manager
+  email: douglasljohnson@outlook.com
+  telephone: +1 (503) XXXXXXX
+  biography:
+  social:
+    - title:
+      url:
+    - title:
+      url:
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -35,7 +49,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 2010 SE 7th Ave 
+  - line: 2010 SE 7th Ave
   - line: Portland, OR 90210
 
 # Build settings
