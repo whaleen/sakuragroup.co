@@ -899,7 +899,8 @@ a.be-a-part {color: #fff!important;}
 
 
 .navbar-shrink {
-    background-image: url(../img/header-bg.jpg);
+    /*background-image: url(../img/header-bg.jpg);*/
+    background-color: #9FADC4!important;
 }
 
 <!-- added to divide team from testimonial -->
