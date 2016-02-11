@@ -30,14 +30,14 @@ people:
 - name: Doug Johnson
   pic: 2
   position: Assistant Project Manager
-  #email: douglasljohnson@outlook.com
-  #telephone: +1 (503) XXXXXXX
-  #biography:
-  #social:
-    #- title:
-      #url:
-    #- title:
-      #url:
+  email: douglasljohnson@outlook.com
+  telephone: +1 (503) XXXXXXX
+  biography:
+  social:
+    - title:
+      url:
+    - title:
+      url:
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
