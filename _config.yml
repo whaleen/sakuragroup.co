@@ -26,30 +26,14 @@ people:
     - title: twitter
       url: http://twitter.com/thesakuragroup
     - title: facebook
-<<<<<<< HEAD
       url: https://www.facebook.com/thesakuragroup
     - title: pinterest
       url: https://www.pinterest.com/gdeim3178/
-=======
-      url: https://www.facebook.com/taka.nakagawa.9
-
->>>>>>> master
 - name: Doug Johnson
   pic: 2
   position: Assistant Project Manager
   email: douglasljohnson@outlook.com
   telephone: +1 (503) XXXXXXX
-  biography:
-  social:
-    - title:
-      url:
-    - title:
-      url:
-- name: Kevin Tocke
-  pic: 3
-  position: Project Manager/Lead Carpenter
-  email:
-  telephone:
   biography:
   social:
     - title:
@@ -67,13 +51,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-<<<<<<< HEAD
   - line: 2010 SE 7th Ave
   - line: Portland, OR 90210
-=======
-  - line: 1020 #15235 SE 7th Ave 
-  - line: Portland, OR 97214
->>>>>>> master
 
 # Build settings
 markdown: kramdown
