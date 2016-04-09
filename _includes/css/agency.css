@@ -671,9 +671,15 @@ aside.clients img {
 section#contact {
     background-color: #222;
 <<<<<<< HEAD
+<<<<<<< HEAD
     background-image: url(../img/contact-bg.png);
     background-size: 125%;
     background-position: center;
+=======
+    background-image: url(../img/living-room.jpg);
+    background-position: center bottom;
+    background-size: 150%;
+>>>>>>> master
 =======
     background-image: url(../img/living-room.jpg);
     background-position: center bottom;
@@ -685,7 +691,11 @@ section#contact {
 section#contact .section-heading {
     color: #fff;
 <<<<<<< HEAD
+<<<<<<< HEAD
     text-shadow: 0 0 10px #777;
+=======
+    text-shadow: 0 0 5px RGBA(0,0,0.75);
+>>>>>>> master
 =======
     text-shadow: 0 0 5px RGBA(0,0,0.75);
 >>>>>>> master
@@ -894,6 +904,7 @@ a.be-a-part {color: #fff!important;}
 
 .services-statement {line-height: 1.8em;}
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -918,5 +929,7 @@ a.be-a-part {color: #fff!important;}
 
 /*added to divide team from testimonial */
 .border-bottom {border-bottom: 1px solid #999;}
+=======
+>>>>>>> master
 =======
 >>>>>>> master
