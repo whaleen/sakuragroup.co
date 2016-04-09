@@ -273,7 +273,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    background-image: url(../img/alameda.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -644,6 +644,8 @@ section h3.section-subheading {
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
+    height: 250px;
+    width: 250px;
 }
 
 .team-member h4 {
@@ -668,15 +670,25 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
+<<<<<<< HEAD
     background-image: url(../img/contact-bg.png);
     background-size: 125%;
     background-position: center;
+=======
+    background-image: url(../img/living-room.jpg);
+    background-position: center bottom;
+    background-size: 150%;
+>>>>>>> master
     background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
     color: #fff;
+<<<<<<< HEAD
     text-shadow: 0 0 10px #777;
+=======
+    text-shadow: 0 0 5px RGBA(0,0,0.75);
+>>>>>>> master
 }
 
 section#contact .form-group {
@@ -881,6 +893,7 @@ body {
 a.be-a-part {color: #fff!important;}
 
 .services-statement {line-height: 1.8em;}
+<<<<<<< HEAD
 
 
 
@@ -905,3 +918,5 @@ a.be-a-part {color: #fff!important;}
 
 /*added to divide team from testimonial */
 .border-bottom {border-bottom: 1px solid #999;}
+=======
+>>>>>>> master
